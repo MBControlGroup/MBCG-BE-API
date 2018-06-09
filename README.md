@@ -10,4 +10,4 @@ https://github.com/MBControlGroup/MBCG-BE-Location/blob/master/apiary.apib
 ##### 人事管理(没给mock链接)
 https://github.com/MBControlGroup/MBCG-BE-PM/blob/master/API.pdf
 ##### API汇总
-https://app.apiary.io/api497/editor
+https://api497.docs.apiary.io/#
